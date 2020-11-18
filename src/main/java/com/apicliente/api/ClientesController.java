@@ -85,6 +85,7 @@ public class ClientesController {
 //	public String post(@RequestBody  Cliente cliente) {
 //		Cliente c =	service.insert(cliente);
 //		return "Cliente salvo com sucesso: " + c.getId();
+	//
 //	}
 	
 	
